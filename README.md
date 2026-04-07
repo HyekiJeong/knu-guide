@@ -1,5 +1,6 @@
 # Kyungpook National University
 경북대학교 정보 정리 가이드
+본 문서는 12조의 협업에 대한 내용 전반을 다룬다.
 
 ![경북대학교로고](https://i.namu.wiki/i/_unh7l-CwSZcN2uayya4bB6bfcwR9Lebx6tBPaHrSZkOgIHdPFAO1W9t-tMW-lwPO7cgSjxSqIUVWTDzVP9mZgDP6OBkANN5_4KhqN8orlyLJn0slTAHUFqz-5I0R6dVrhuKJEZXH8CwWMI920lmWw.svg)
 
@@ -54,7 +55,7 @@
 
 ---
 
-## 협업과정 (타임라인)
+## 협업과정
 
 4/2일 과제 진행을 위한 연락시작.
   - 주제선정, PR횟수 및 시기 타협, 발표자 선정

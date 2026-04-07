@@ -1,9 +1,12 @@
-![경북대학교로고](https://i.namu.wiki/i/_unh7l-CwSZcN2uayya4bB6bfcwR9Lebx6tBPaHrSZkOgIHdPFAO1W9t-tMW-lwPO7cgSjxSqIUVWTDzVP9mZgDP6OBkANN5_4KhqN8orlyLJn0slTAHUFqz-5I0R6dVrhuKJEZXH8CwWMI920lmWw.svg)
-
 # Kyungpook National University
 경북대학교 정보 정리 가이드
 
+![경북대학교로고](https://i.namu.wiki/i/_unh7l-CwSZcN2uayya4bB6bfcwR9Lebx6tBPaHrSZkOgIHdPFAO1W9t-tMW-lwPO7cgSjxSqIUVWTDzVP9mZgDP6OBkANN5_4KhqN8orlyLJn0slTAHUFqz-5I0R6dVrhuKJEZXH8CwWMI920lmWw.svg)
+
 ---
+## 브랜치의 구조
+- 
+
 
 ## 1. 경북대학교 조직
 경북대학교에는 2024년 기준 18개 단과대학, 26개 학부 및 68개 학과, 일반대학원, 2개 전문대학원, 12개 특수대학원으로 구성되어있다.
